@@ -24,6 +24,7 @@
         "bowser": "2.11.0",
         "buffer": "6.0.3",
         "classnames": "2.3.1",
+        "cordova-plugin-androidtv": "github:kuackmedia/cordova-plugin-androidtv",
         "eventemitter3": "4.0.7",
         "filter-invalid-dom-props": "2.1.0",
         "hat": "0.0.3",
