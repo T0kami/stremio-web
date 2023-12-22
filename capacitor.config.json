@@ -1,4 +1,5 @@
 {
     "appId": "com.stremio.one",
-    "appName": "StremioCustom"
+    "appName": "StremioCustom",
+    "webDir": "build"
   }
